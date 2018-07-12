@@ -1,0 +1,8 @@
+{
+  "name": "roind",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:neoeno/roind.git",
+  "author": ["Roi McDonald <roi@mcdonalds.com>", "Kay Lovelace <kay@makersacademy.com>"],
+  "license": "MIT"
+}
